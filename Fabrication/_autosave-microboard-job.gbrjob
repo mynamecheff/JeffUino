@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "7.0.1"
     },
-    "CreationDate": "2023-06-08T10:56:07+02:00"
+    "CreationDate": "2023-06-08T12:37:54+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "microboard",
-      "GUID": "6d696372-6f62-46f6-9172-642e6b696361",
+      "Name": "_autosave-microboard",
+      "GUID": "5f617574-6f73-4617-9665-2d6d6963726f",
       "Revision": "V1"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "microboard-F_Cu.gbr",
+      "Path": "_autosave-microboard-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "microboard-B_Cu.gbr",
+      "Path": "_autosave-microboard-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "microboard-F_Paste.gbr",
+      "Path": "_autosave-microboard-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "microboard-B_Paste.gbr",
+      "Path": "_autosave-microboard-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "microboard-F_Silkscreen.gbr",
+      "Path": "_autosave-microboard-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "microboard-B_Silkscreen.gbr",
+      "Path": "_autosave-microboard-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "microboard-F_Mask.gbr",
+      "Path": "_autosave-microboard-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "microboard-B_Mask.gbr",
+      "Path": "_autosave-microboard-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "microboard-Edge_Cuts.gbr",
+      "Path": "_autosave-microboard-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
